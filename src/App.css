@@ -1,0 +1,17 @@
+.app {
+  margin: 50px;
+  padding: 0;
+}
+.app input {
+  padding: 10px;
+  font-size: 20px;
+}
+.list {
+  display: flex;
+  list-style-type: none;
+  text-align: center;
+  justify-items: center;
+}
+.listItem {
+  padding: 2px;
+}
